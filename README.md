@@ -1,2 +1,2 @@
 # JavaHelloWorld
-JavaHelloWorld
+Java Hello World Program
